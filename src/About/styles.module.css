@@ -1,0 +1,51 @@
+.body{
+    display: flex;
+}
+.about{
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    font-size: 50px;
+    color: rgb(101, 96, 96);
+}
+.textBox1{
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    font-size: 30px;
+    color: rgb(215, 62, 20);
+}
+.textBox2{
+    position: absolute;
+    top: 55%;
+    left: 10%;
+    font-size: 30px;
+    color: rgb(215, 62, 20);
+}
+.textBox3{
+    position: absolute;
+    top: 60%;
+    left: 10%;
+    font-size: 30px;
+    color: rgb(215, 62, 20);
+}
+.textBox4{
+    position: absolute;
+    top: 65%;
+    left: 10%;
+    font-size: 30px;
+    color: rgb(215, 62, 20);
+}
+.textBox5{
+    position: absolute;
+    top: 70%;
+    left: 10%;
+    font-size: 30px;
+    color: rgb(215, 62, 20);
+}
+.about{
+    height: 400px;
+    width: 500px;
+    left: 60%;
+    top: 20%;
+}
